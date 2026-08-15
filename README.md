@@ -102,7 +102,7 @@ npm run start
 **Ruben**  
 *Lead Full-Stack Developer & Product Architect*  
 - GitHub: @rubenisaac2723-afk
-- Portfolio: [https://github.com/Prahashya-08/portfoliorui](https://github.com/Prahashya-08/portfoliorui)
+- Portfolio:(https://github.com/rubenisaac2723-afk/portfolio)
 
 ---
 
